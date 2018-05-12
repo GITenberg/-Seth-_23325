@@ -1,0 +1,35 @@
+_repo: -Seth-_23325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: '""Seth"" is a deeply moving short story by Frances Hodgson Burnett,
+  the author of many beloved childhood classics, including Little Lord Fauntleroy,
+  The Secret Garden and A Little Princess. A young Englishman walks into a down-on-its-luck
+  Tennessee mining town, and at first the locals are reluctant to accept him. But
+  before long, Seth''s selflessness has made him an important part of the community.'
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+title: '"Seth"'
+url: http://www.gutenberg.org/ebooks/23325
